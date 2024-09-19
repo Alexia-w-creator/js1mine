@@ -16,9 +16,13 @@
 }
 
 body {
-    background: url(https://chakiris.club/uploads/posts/2022-11/1669120677_chakiris-club-p-magistr-dyavolskogo-kulta-oboi-na-rabochii-38.jpg);
+    background: url(background.jpg);
     margin: 0;
     overflow: auto;
+}
+
+p{
+    color:#f9f3f4;
 }
 
 /* #left-block {
@@ -32,7 +36,8 @@ body {
 }
 
 #form {
-    margin: 40px;
+    margin-left: 170px;
+    margin-top: 40px;
     color: #000000;
 }
 
